@@ -14,3 +14,7 @@ make runtest
 ## Diagram
 
 ![diagram](./Simple%20Lending%20Protocol.png)
+
+## Test Result
+
+![test](./test.png)

@@ -3,7 +3,7 @@ runtest:
 	@echo "Running tests..."
 	forge build
 	forge compile
-	forge test -vvv
+	forge test -vvvv
 
 # TODO: add demo
 demo:
